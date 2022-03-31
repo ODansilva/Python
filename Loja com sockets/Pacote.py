@@ -1,0 +1,5 @@
+ENCODING = 'utf-8'
+P_PRO = '!20s f f'
+P_RESPOSTA = '!20s'
+P_REQUEST = '!i i'
+P_LISTA = '!20s f f'
